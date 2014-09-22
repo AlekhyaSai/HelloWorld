@@ -1,4 +1,5 @@
 HelloWorld
 ==========
 
-My first reository on git hub
+My first repository on git hub
+Hi
